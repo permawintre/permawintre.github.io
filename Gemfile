@@ -9,3 +9,5 @@ group :test do
 end
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem 'kramdown-math-katex'
