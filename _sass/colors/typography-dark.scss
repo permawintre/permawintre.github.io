@@ -35,16 +35,16 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
+  --site-title-color: rgb(180, 180, 180);
+  --site-subtitle-color: rgb(170, 170, 170);
   --sidebar-bg: #1e1e1e;
-  --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
-  --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
-  --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
-  --avatar-border-color: rgb(206, 206, 206, 0.9);
+  --sidebar-border-color: rgb(170, 170, 170);
+  --sidebar-muted-color: rgb(170, 170, 170);
+  --sidebar-active-color: #7e7e7e;
+  --sidebar-hover-bg: rgb(48, 48, 48);
+  --sidebar-btn-bg: rgb(48, 48, 48);
+  --sidebar-btn-color: #8e8e8e;
+  --avatar-border-color: rgb(170, 170, 170);
 
   /* Topbar */
   --topbar-bg: rgb(27, 27, 30, 0.64);
@@ -144,4 +144,9 @@
   #disqus_thread {
     color-scheme: none;
   }
+
+  /* Box style custom */
+  --box-color: #414141;
+
+
 } /* dark-scheme */

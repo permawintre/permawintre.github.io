@@ -38,16 +38,16 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
-  --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
-  --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
-  --sidebar-btn-bg: white;
+  --site-title-color: rgb(200, 200, 200);
+  --site-subtitle-color: rgb(190, 190, 190);
+  --sidebar-bg: #1e1e1e;
+  --sidebar-border-color: rgb(190, 190, 190);
+  --sidebar-muted-color: rgb(190, 190, 190);
+  --sidebar-active-color: #7e7e7e;
+  --sidebar-hover-bg: rgb(48, 48, 48);
+  --sidebar-btn-bg: rgb(48, 48, 48);
   --sidebar-btn-color: #8e8e8e;
-  --avatar-border-color: white;
+  --avatar-border-color: rgb(190, 190, 190);
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
@@ -109,4 +109,9 @@
   --timeline-color: rgba(0, 0, 0, 0.075);
   --timeline-node-bg: #c2c6cc;
   --timeline-year-dot-color: #ffffff;
+
+  /* Box style custom */
+  --box-color: #f0f0f0;
+
+
 } /* light-scheme */
